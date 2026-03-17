@@ -1,5 +1,3 @@
-# insurance-ml-project
-Insurance claim prediction with machine learning
 
 # Insurance Cost Prediction with Machine Learning
 
