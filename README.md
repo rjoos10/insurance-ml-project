@@ -11,10 +11,10 @@ The dataset contains information such as age, BMI, smoking status, number of chi
 
 The following steps are implemented:
 
-Data exploration and visualization
-Feature engineering 
-Train/test split
-Model training using:
+ * Data exploration and visualization
+ * Feature engineering 
+ * Train/test split
+ * Model training using:
   -Linear Regression
   -Random Forest
 
